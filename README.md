@@ -1,0 +1,1 @@
+This is the first projcet that we're going to do using git and github and this is also a setup of my github repository    
